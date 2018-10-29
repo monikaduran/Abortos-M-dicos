@@ -18,13 +18,21 @@ Visualización de los departamentos de Colombia y la cantidad total de abortos p
   - html
   - Javascript
 
- 3) Cómo se corre 
+ 3) Cómo se corre.
+ 
  Copiar el link de abajo y pegarlo en cualquier navegador para el despliegue. 
  
- 3) Autores 
+ 3) Autores.
+ 
  Monica Katherine Duran Vaca
  
- 4) Links
+ 4) Link
+ https://monikaduran.github.io/Abortos-Medicos/
  
- 5) Un screenshot
- 6) La licencia MIT.
+ 5) screenshot
+ 
+ https://snag.gy/X3Fkn7.jpg
+  
+ 6) Licencia.
+ 
+ MIT.
