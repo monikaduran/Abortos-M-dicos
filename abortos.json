@@ -1,0 +1,1019 @@
+{
+  "nodes": [
+	{
+	"id":"Amazonas",
+	"group": 1,
+	"level" : 2
+   	},    	
+
+	{
+	"id":"Antioquia",
+	"group": 1,
+	"level" : 2
+   	},
+	{
+	"id":"Arauca",
+	"group": 1,
+	"level" : 2
+	
+     	},
+	{
+	"id":"San Andres",
+	"group": 1,
+	"level" : 2
+	
+     	},
+ 		
+	{
+	"id":"Atlantico",
+	"group": 1,
+	"level" : 2
+     	},
+{
+	"id":"Bogota",
+	"group": 1,
+	"level" : 2
+     	},
+	
+	{
+	"id":"Boyaca",
+	"group": 1,
+	"level" : 2
+     	},
+	
+	{
+	"id":"Bolivar",
+	"group": 1,
+	"level" : 2
+     	},
+	
+	{
+	"id":"Caldas",
+	"group": 1,
+	"level" : 2
+     	},
+	
+	{
+	"id":"Caqueta",
+	"group": 1,
+	"level" : 2
+     	},
+	{
+	"id":"Casanare",
+	"group": 1,
+	"level" : 2
+	
+     	},
+ 	
+	
+	{
+	"id":"Cauca",
+	"group": 1,
+	"level" : 2
+     	},
+	
+	{
+	"id":"Cesar",
+	"group": 1,
+	"level" : 2
+     	},
+	
+	{
+	"id":"Cordoba",
+	"group": 1,
+	"level" : 2
+     	},
+	
+	{
+	"id":"Cundinamarca",
+	"group": 1,
+	"level" : 2
+     	},
+	
+	{
+	"id":"Choco",
+	"group": 1,
+	"level" : 2
+     	},
+	{
+	"id":"Guainia",
+	"group": 1,
+	"level" : 2
+	
+     	},
+	{
+	"id":"Guaviare",
+	"group": 1,
+	"level" : 2
+	
+     	},
+	{
+	"id":"Huila",
+	"group": 1,
+	"level" : 2
+	
+     	},
+	{
+	"id":"La Guajira",
+	"group": 1,
+	"level" : 2
+	
+     	},
+	{
+	"id":"Magdalena",
+	"group": 1,
+	"level" : 2
+	
+     	},
+	{
+	"id":"Meta",
+	"group": 1,
+	"level" : 2
+	
+     	},
+	{
+	"id":"Narino",
+	"group": 1,
+	"level" : 2
+	
+     	},
+	{
+	"id":"Norte de Santander",
+	"group": 1,
+	"level" : 2
+	
+     	},
+	{
+	"id":"Putumayo",
+	"group": 1,
+	"level" : 2
+	
+     	},
+	{
+	"id":"Quindio",
+	"group": 1,
+	"level" : 2
+	
+     	},
+	{
+	"id":"Risaralda",
+	"group": 1,
+	"level" : 2
+	
+     	},
+	{
+	"id":"Santander",
+	"group": 1,
+	"level" : 2
+	
+     	},
+	{
+	"id":"Sucre",
+	"group": 1,
+	"level" : 2
+	
+     	},
+	{
+	"id":"Tolima",
+	"group": 1,
+	"level" : 2
+	
+     	},
+	{
+	"id":"Valle del Cauca",
+	"group": 1,
+	"level" : 2
+	
+     	},
+	{
+	"id":"Vichada",
+	"group": 1,
+	"level" : 2
+	
+     	},
+ 	
+ 	{
+       	"id": "entre 1 y 50 abortos - 2017",
+      "group": 2,
+	"level": 1
+     
+    },
+
+{
+       	"id": "entre 50 y 100 abortos - 2017",
+      "group": 2,
+     	"level":1
+    },
+{
+       	"id": "entre 100 y 200 abortos - 2017",
+      "group": 2,
+     "level":1
+    },
+{
+       	"id": "entre 200 y 300 abortos - 2017",
+      "group": 2,
+     "level":1
+    },
+	{
+       	"id": "entre 300 y 400 abortos - 2017",
+      "group": 2,
+     "level":1
+    },
+	{
+       	"id": "entre 400 y 500 abortos - 2017",
+      "group": 2,
+     "level":1
+    },
+
+{
+       	"id": "entre 500 y 1000 abortos - 2017",
+      "group": 2,
+     "level":1
+    },
+	{
+       	"id": "entre 1000 y 2000 abortos - 2017",
+      "group": 2,
+     "level":1
+    },
+	{
+       	"id": "mas de 2000 abortos - 2017",
+      "group": 2,
+     "level":1
+    },
+{
+       	"id": "entre 1 y 50 abortos - 2016",
+      "group": 3,
+	"level": 1
+     
+    },
+
+{
+       	"id": "entre 50 y 100 abortos - 2016",
+      "group": 3,
+     	"level":1
+    },
+{
+       	"id": "entre 100 y 200 abortos - 2016",
+      "group": 3,
+     "level":1
+    },
+{
+       	"id": "entre 200 y 300 abortos - 2016",
+      "group": 3,
+     "level":1
+    },
+	{
+       	"id": "entre 300 y 400 abortos - 2016",
+      "group": 3,
+     "level":1
+    },
+	{
+       	"id": "entre 400 y 500 abortos - 2016",
+      "group": 3,
+     "level":1
+    },
+
+{
+       	"id": "entre 500 y 1000 abortos - 2016",
+      "group": 3,
+     "level":1
+    },
+	{
+       	"id": "entre 1000 y 2000 abortos - 2016",
+      "group": 3,
+     "level":1
+    },
+	{
+       	"id": "mas de 2000 abortos - 2016",
+      "group": 3,
+     "level":1
+    },
+	{
+       	"id": "entre 1 y 50 abortos - 2015",
+      "group": 4,
+     	"level":1
+    },
+	{
+       	"id": "entre 50 y 100 abortos - 2015",
+      "group": 4,
+     	"level":1
+    },
+{
+       	"id": "entre 100 y 200 abortos - 2015",
+      "group": 4,
+     "level":1
+    },
+{
+       	"id": "entre 200 y 300 abortos - 2015",
+      "group": 4,
+     "level":1
+    },
+	{
+       	"id": "entre 300 y 400 abortos - 2015",
+      "group": 4,
+     "level":1
+    },
+	{
+       	"id": "entre 400 y 500 abortos - 2015",
+      "group": 4,
+     "level":1
+    },
+
+{
+       	"id": "entre 500 y 1000 abortos - 2015",
+      "group": 4,
+     "level":1
+    },
+	{
+       	"id": "entre 1000 y 2000 abortos - 2015",
+      "group": 4,
+     "level":1
+    },
+	{
+       	"id": "mas de 2000 abortos - 2015",
+      "group": 4,
+     "level":1
+    },
+{
+       	"id": "entre 1 y 50 abortos - 2014",
+      "group": 5,
+     	"level":1
+    },
+	{
+       	"id": "entre 50 y 100 abortos - 2014",
+      "group": 5,
+     	"level":1
+    },
+{
+       	"id": "entre 100 y 200 abortos - 2014",
+      "group": 5,
+     "level":1
+    },
+{
+       	"id": "entre 200 y 300 abortos - 2014",
+      "group": 5,
+     "level":1
+    },
+	{
+       	"id": "entre 300 y 400 abortos - 2014",
+      "group": 5,
+     "level":1
+    },
+	{
+       	"id": "entre 400 y 500 abortos - 2014",
+      "group": 5,
+     "level":1
+    },
+
+{
+       	"id": "entre 500 y 1000 abortos - 2014",
+      "group": 5,
+     "level":1
+    },
+	{
+       	"id": "entre 1000 y 2000 abortos - 2014",
+      "group": 5,
+     "level":1
+    },
+	{
+       	"id": "mas de 2000 abortos - 2014",
+      "group": 5,
+     "level":1
+    }
+
+
+    ],
+  "links": [
+        {
+      "source": "entre 1 y 50 abortos - 2017",
+      "target": "Amazonas",
+      "value": "70"
+    },
+	{
+      "source": "entre 1000 y 2000 abortos - 2017",
+      "target": "Antioquia",
+      "value": "70"
+    },
+	
+	{
+      "source": "entre 300 y 400 abortos - 2017",
+      "target": "Atlantico"
+       },
+	
+      {
+      "source": "entre 1 y 50 abortos - 2017",
+      "target": "Arauca"	
+       },
+
+	
+      {
+      "source": "entre 1 y 50 abortos - 2017",
+      "target": "San Andres"
+       },
+	{
+      "source": "mas de 2000 abortos - 2017",
+      "target": "Bogota",
+      "value": "70"
+    },
+{
+      "source": "entre 100 y 200 abortos - 2017",
+      "target": "Boyaca",
+      "value": "70"
+    },
+{
+      "source": "entre 100 y 200 abortos - 2017",
+      "target": "Bolivar",
+      "value": "70"
+    },
+	{
+      "source": "entre 100 y 200 abortos - 2017",
+      "target": "Caldas",
+      "value": "70"
+    },
+{
+      "source": "entre 50 y 100 abortos - 2017",
+      "target": "Choco",
+      "value": "70"
+    },
+	{
+      "source": "entre 1 y 50 abortos - 2017",
+      "target": "Caqueta",
+      "value": "70"
+    },
+	{
+      "source": "entre 1 y 50 abortos - 2017",
+      "target": "Casanare",
+      "value": "70"
+    },
+	{
+      "source": "entre 300 y 400 abortos - 2017",
+      "target": "Cauca",
+      "value": "70"
+    },
+	{
+      "source": "entre 100 y 200 abortos - 2017",
+      "target": "Cesar",
+      "value": "70"
+    },
+	{
+      "source": "entre 200 y 300 abortos - 2017",
+      "target": "Cordoba",
+      "value": "70"
+    },
+	{
+      "source": "entre 500 y 1000 abortos - 2017",
+      "target": "Cundinamarca",
+      "value": "70"
+    },
+	{
+      "source": "entre 1 y 50 abortos - 2017",
+      "target": "Guainia",
+      "value": "70"
+    },
+	{
+      "source": "entre 1 y 50 abortos - 2017",
+      "target": "Guaviare",
+      "value": "70"
+    },
+	{
+      "source": "entre 100 y 200 abortos - 2017",
+      "target": "Huila",
+      "value": "70"
+    },
+	{
+      "source": "entre 100 y 200 abortos - 2017",
+      "target": "La Guajira",
+      "value": "70"
+    },
+	{
+      "source": "entre 200 y 300 abortos - 2017",
+      "target": "Magdalena",
+      "value": "70"
+    },
+	{
+      "source": "entre 50 y 100 abortos - 2017",
+      "target": "Meta",
+      "value": "70"
+    },
+	{
+      "source": "entre 300 y 400 abortos - 2017",
+      "target": "Narino",
+      "value": "70"
+    },
+	{
+      "source": "entre 50 y 100 abortos - 2017",
+      "target": "Norte de Santander",
+      "value": "70"
+    },
+	{
+      "source": "entre 1 y 50 abortos - 2017",
+      "target": "Putumayo",
+      "value": "70"
+    },
+	{
+      "source": "entre 50 y 100 abortos - 2017",
+      "target": "Quindio",
+      "value": "70"
+    },
+	{
+      "source": "entre 50 y 100 abortos - 2017",
+      "target": "Risaralda",
+      "value": "70"
+    },
+	{
+      "source": "entre 200 y 300 abortos - 2017",
+      "target": "Santander",
+      "value": "70"
+    },
+	{
+      "source": "entre 50 y 100 abortos - 2017",
+      "target": "Sucre",
+      "value": "70"
+    },
+	{
+      "source": "entre 100 y 200 abortos - 2017",
+      "target": "Tolima",
+      "value": "70"
+    },
+	{
+      "source": "entre 1000 y 2000 abortos - 2017",
+      "target": "Valle del Cauca",
+      "value": "70"
+    },
+	{
+      "source": "entre 1 y 50 abortos - 2017",
+      "target": "Vichada",
+      "value": "70"
+    },
+ {
+      "source": "entre 1 y 50 abortos - 2016",
+      "target": "Amazonas",
+      "value": "70"
+    },
+	{
+      "source": "entre 500 y 1000 abortos - 2016",
+      "target": "Antioquia",
+      "value": "70"
+    },
+	
+	{
+      "source": "entre 200 y 300 abortos - 2016",
+      "target": "Atlantico"
+       },
+	
+      {
+      "source": "entre 1 y 50 abortos - 2016",
+      "target": "Arauca"	
+       },
+
+	
+      {
+      "source": "entre 1 y 50 abortos - 2016",
+      "target": "San Andres"
+       },
+	{
+      "source": "mas de 2000 abortos - 2016",
+      "target": "Bogota",
+      "value": "70"
+    },
+{
+      "source": "entre 50 y 100 abortos - 2016",
+      "target": "Boyaca",
+      "value": "70"
+    },
+{
+      "source": "entre 100 y 200 abortos - 2016",
+      "target": "Bolivar",
+      "value": "70"
+    },
+	{
+      "source": "entre 100 y 200 abortos - 2016",
+      "target": "Caldas",
+      "value": "70"
+    },
+{
+      "source": "entre 1 y 50 abortos - 2016",
+      "target": "Choco",
+      "value": "70"
+    },
+	{
+      "source": "entre 1 y 50 abortos - 2016",
+      "target": "Caqueta",
+      "value": "70"
+    },
+	{
+      "source": "entre 1 y 50 abortos - 2016",
+      "target": "Casanare",
+      "value": "70"
+    },
+	{
+      "source": "entre 200 y 300 abortos - 2016",
+      "target": "Cauca",
+      "value": "70"
+    },
+	{
+      "source": "entre 100 y 200 abortos - 2016",
+      "target": "Cesar",
+      "value": "70"
+    },
+	{
+      "source": "entre 100 y 200 abortos - 2016",
+      "target": "Cordoba",
+      "value": "70"
+    },
+	{
+      "source": "entre 500 y 1000 abortos - 2016",
+      "target": "Cundinamarca",
+      "value": "70"
+    },
+	{
+      "source": "entre 100 y 200 abortos - 2016",
+      "target": "Huila",
+      "value": "70"
+    },
+	{
+      "source": "entre 100 y 200 abortos - 2016",
+      "target": "La Guajira",
+      "value": "70"
+    },
+	{
+      "source": "entre 50 y 100 abortos - 2016",
+      "target": "Magdalena",
+      "value": "70"
+    },
+	{
+      "source": "entre 50 y 100 abortos - 2016",
+      "target": "Meta",
+      "value": "70"
+    },
+	{
+      "source": "entre 200 y 300 abortos - 2016",
+      "target": "Narino",
+      "value": "70"
+    },
+	{
+      "source": "entre 50 y 100 abortos - 2016",
+      "target": "Norte de Santander",
+      "value": "70"
+    },
+	{
+      "source": "entre 1 y 50 abortos - 2016",
+      "target": "Putumayo",
+      "value": "70"
+    },
+	{
+      "source": "entre 1 y 50 abortos - 2016",
+      "target": "Quindio",
+      "value": "70"
+    },
+	{
+      "source": "entre 50 y 100 abortos - 2016",
+      "target": "Risaralda",
+      "value": "70"
+    },
+	{
+      "source": "entre 100 y 200 abortos - 2016",
+      "target": "Santander",
+      "value": "70"
+    },
+	{
+      "source": "entre 1 y 50 abortos - 2016",
+      "target": "Sucre",
+      "value": "70"
+    },
+	{
+      "source": "entre 50 y 100 abortos - 2016",
+      "target": "Tolima",
+      "value": "70"
+    },
+	{
+      "source": "entre 500 y 1000 abortos - 2016",
+      "target": "Valle del Cauca",
+      "value": "70"
+    },
+	{
+      "source": "entre 1 y 50 abortos - 2016",
+      "target": "Vichada",
+      "value": "70"
+    },
+{
+      "source": "entre 1 y 50 abortos - 2015",
+      "target": "Amazonas",
+      "value": "70"
+    },
+	{
+      "source": "entre 500 y 1000 abortos - 2015",
+      "target": "Antioquia",
+      "value": "70"
+    },
+	
+	{
+      "source": "entre 300 y 400 abortos - 2015",
+      "target": "Atlantico"
+       },
+	
+      {
+      "source": "entre 1 y 50 abortos - 2015",
+      "target": "Arauca"	
+       },
+
+	
+      {
+      "source": "entre 1 y 50 abortos - 2015",
+      "target": "San Andres"
+       },
+	{
+      "source": "mas de 2000 abortos - 2015",
+      "target": "Bogota",
+      "value": "70"
+    },
+{
+      "source": "entre 100 y 200 abortos - 2015",
+      "target": "Boyaca",
+      "value": "70"
+    },
+{
+      "source": "entre 100 y 200 abortos - 2015",
+      "target": "Bolivar",
+      "value": "70"
+    },
+	{
+      "source": "entre 50 y 100 abortos - 2015",
+      "target": "Caldas",
+      "value": "70"
+    },
+{
+      "source": "entre 50 y 100 abortos - 2015",
+      "target": "Choco",
+      "value": "70"
+    },
+	{
+      "source": "entre 1 y 50 abortos - 2015",
+      "target": "Caqueta",
+      "value": "70"
+    },
+	{
+      "source": "entre 1 y 50 abortos - 2015",
+      "target": "Casanare",
+      "value": "70"
+    },
+	{
+      "source": "entre 300 y 400 abortos - 2015",
+      "target": "Cauca",
+      "value": "70"
+    },
+	{
+      "source": "entre 100 y 200 abortos - 2015",
+      "target": "Cesar",
+      "value": "70"
+    },
+	{
+      "source": "entre 200 y 300 abortos - 2015",
+      "target": "Cordoba",
+      "value": "70"
+    },
+	{
+      "source": "entre 500 y 1000 abortos - 2015",
+      "target": "Cundinamarca",
+      "value": "70"
+    },
+	{
+      "source": "entre 1 y 50 abortos - 2015",
+      "target": "Guainia",
+      "value": "70"
+    },
+	{
+      "source": "entre 1 y 50 abortos - 2015",
+      "target": "Guaviare",
+      "value": "70"
+    },
+	{
+      "source": "entre 100 y 200 abortos - 2015",
+      "target": "Huila",
+      "value": "70"
+    },
+	{
+      "source": "entre 400 y 500 abortos - 2015",
+      "target": "La Guajira",
+      "value": "70"
+    },
+	{
+      "source": "entre 200 y 300 abortos - 2015",
+      "target": "Magdalena",
+      "value": "70"
+    },
+	{
+      "source": "entre 100 y 200 abortos - 2015",
+      "target": "Meta",
+      "value": "70"
+    },
+	{
+      "source": "entre 200 y 300 abortos - 2015",
+      "target": "Narino",
+      "value": "70"
+    },
+	{
+      "source": "entre 100 y 200 abortos - 2015",
+      "target": "Norte de Santander",
+      "value": "70"
+    },
+	{
+      "source": "entre 1 y 50 abortos - 2015",
+      "target": "Putumayo",
+      "value": "70"
+    },
+	{
+      "source": "entre 100 y 200 abortos - 2015",
+      "target": "Quindio",
+      "value": "70"
+    },
+	{
+      "source": "entre 100 y 200 abortos - 2015",
+      "target": "Risaralda",
+      "value": "70"
+    },
+	{
+      "source": "entre 300 y 400 abortos - 2015",
+      "target": "Santander",
+      "value": "70"
+    },
+	{
+      "source": "entre 50 y 100 abortos - 2015",
+      "target": "Sucre",
+      "value": "70"
+    },
+	{
+      "source": "entre 100 y 200 abortos - 2015",
+      "target": "Tolima",
+      "value": "70"
+    },
+	{
+      "source": "entre 500 y 1000 abortos - 2015",
+      "target": "Valle del Cauca",
+      "value": "70"
+    },
+	{
+      "source": "entre 1 y 50 abortos - 2015",
+      "target": "Vichada",
+      "value": "70"
+    },
+{
+      "source": "entre 1 y 50 abortos - 2014",
+      "target": "Amazonas",
+      "value": "70"
+    },
+	{
+      "source": "entre 500 y 1000 abortos - 2014",
+      "target": "Antioquia",
+      "value": "70"
+    },
+	
+	{
+      "source": "entre 400 y 500 abortos - 2014",
+      "target": "Atlantico"
+       },
+	
+      {
+      "source": "entre 50 y 100 abortos - 2014",
+      "target": "Arauca"	
+       },
+
+	
+      {
+      "source": "entre 1 y 50 abortos - 2014",
+      "target": "San Andres"
+       },
+	{
+      "source": "entre 1000 y 2000 abortos - 2014",
+      "target": "Bogota",
+      "value": "70"
+    },
+{
+      "source": "entre 300 y 400 abortos - 2014",
+      "target": "Boyaca",
+      "value": "70"
+    },
+{
+      "source": "entre 200 y 300 abortos - 2014",
+      "target": "Bolivar",
+      "value": "70"
+    },
+	{
+      "source": "entre 50 y 100 abortos - 2014",
+      "target": "Caldas",
+      "value": "70"
+    },
+{
+      "source": "entre 1 y 50 abortos - 2014",
+      "target": "Choco",
+      "value": "70"
+    },
+	{
+      "source": "entre 1 y 50 abortos - 2014",
+      "target": "Caqueta",
+      "value": "70"
+    },
+	{
+      "source": "entre 1 y 50 abortos - 2014",
+      "target": "Casanare",
+      "value": "70"
+    },
+	{
+      "source": "entre 200 y 300 abortos - 2014",
+      "target": "Cauca",
+      "value": "70"
+    },
+	{
+      "source": "entre 100 y 200 abortos - 2014",
+      "target": "Cesar",
+      "value": "70"
+    },
+	{
+      "source": "entre 200 y 300 abortos - 2014",
+      "target": "Cordoba",
+      "value": "70"
+    },
+	{
+      "source": "entre 300 y 400 abortos - 2014",
+      "target": "Cundinamarca",
+      "value": "70"
+    },
+	{
+      "source": "entre 1 y 50 abortos - 2014",
+      "target": "Guaviare",
+      "value": "70"
+    },
+	{
+      "source": "entre 200 y 300 abortos - 2014",
+      "target": "Huila",
+      "value": "70"
+    },
+	{
+      "source": "entre 300 y 400 abortos - 2014",
+      "target": "La Guajira",
+      "value": "70"
+    },
+	{
+      "source": "entre 200 y 300 abortos - 2014",
+      "target": "Magdalena",
+      "value": "70"
+    },
+	{
+      "source": "entre 200 y 300 abortos - 2014",
+      "target": "Meta",
+      "value": "70"
+    },
+	{
+      "source": "entre 200 y 300 abortos - 2014",
+      "target": "Narino",
+      "value": "70"
+    },
+	{
+      "source": "entre 100 y 200 abortos - 2014",
+      "target": "Norte de Santander",
+      "value": "70"
+    },
+	{
+      "source": "entre 1 y 50 abortos - 2014",
+      "target": "Putumayo",
+      "value": "70"
+    },
+	{
+      "source": "entre 200 y 300 abortos - 2014",
+      "target": "Quindio",
+      "value": "70"
+    },
+	{
+      "source": "entre 200 y 300 abortos - 2014",
+      "target": "Risaralda",
+      "value": "70"
+    },
+	{
+      "source": "entre 300 y 400 abortos - 2014",
+      "target": "Santander",
+      "value": "70"
+    },
+	{
+      "source": "entre 100 y 200 abortos - 2014",
+      "target": "Sucre",
+      "value": "70"
+    },
+	{
+      "source": "entre 200 y 300 abortos - 2014",
+      "target": "Tolima",
+      "value": "70"
+    },
+	{
+      "source": "entre 1000 y 2000 abortos - 2014",
+      "target": "Valle del Cauca",
+      "value": "70"
+    },
+	{
+      "source": "entre 1 y 50 abortos - 2014",
+      "target": "Vichada",
+      "value": "70"
+    }
+
+
+  ]
+}
